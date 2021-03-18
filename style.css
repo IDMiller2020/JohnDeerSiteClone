@@ -1,0 +1,43 @@
+.bg-header-img {
+  background-image: url("./march-hero-1366x347.webp");
+  background-position: center;
+  background-size: cover;
+  min-height: 35vh;
+}
+
+a {
+  color: #398028;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #fbde01;
+}
+
+.img-upper-left {
+  background-image: url("./9series-right-632x384.jpg");
+  background-position: center;
+  background-size: cover;
+  min-height: 35vh;
+}
+
+.img-upper-right {
+  background-image: url("./ag-march-5m-teaser-632x384.jpg");
+  background-position: center;
+  background-size: cover;
+  min-height: 35vh;
+}
+
+.img-lower-left {
+  background-image: url("./deere-season-march-632x384.webp");
+  background-position: center;
+  background-size: cover;
+  min-height: 35vh;
+}
+
+.img-lower-right {
+  background-image: url("./RYD_USHomePageTeaser_632x348.webp");
+  background-position: center;
+  background-size: cover;
+  min-height: 35vh;
+}
